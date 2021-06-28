@@ -1,0 +1,2 @@
+set RABBIT_URI=amqp://localhost
+
